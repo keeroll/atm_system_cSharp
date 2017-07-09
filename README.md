@@ -2,6 +2,14 @@
 ## (with C# and MS SQL)
 
 ### It's my pet project which simulates atm system with extra functions.
+#### So the main things that you shoud know are:
+      1) You can log in to account and check info, witdraw money or transfer money.
+      2) All text boxes checking input info.
+      3) You can't paste a copied values into text boxes.
+      4) You can enter pin-code only with the buttons on the form.
+      5) All tex boxes have limitation for characters.
+      6) I will complement this list every time when I will add new features.
+
 ### All accounts you can find in the next table.
 
 ## Accounts:
