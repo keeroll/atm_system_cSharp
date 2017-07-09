@@ -1,9 +1,7 @@
 # ATM system simulation 
 ## (with C# and MS SQL)
-
 ###It's my pet project. It simulates atm system with extra functions.
 ###All accounts you can find in the next table.
-
 ##Accounts
 |  Card number   | Pin code | First name | Last name |
 |:--------------:|:--------:|:----------:|:---------:|
